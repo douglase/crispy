@@ -84,3 +84,22 @@ presentations/2017Rizzo_SPIE.pptx
 presentations/2017Rizzo_OS5_Results.pptx
 
 crispy/ReferenceFiles/testWavecal660/*
+
+build/*
+
+crispy.egg-info/*
+
+dist/*
+
+crispy/ReferenceFiles/wavecalR50_660_SC/*
+
+crispy/ReferenceFiles/wavecalR50_SC/*
+
+
+crispy/ReferenceFiles/Calibra_170425/polyimageR70.fits
+
+crispy/ReferenceFiles/LLTFwavecal_attempt/*
+
+docs/.DS_Store
+
+docs/source/.DS_Store
